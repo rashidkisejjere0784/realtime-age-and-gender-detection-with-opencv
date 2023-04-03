@@ -8,3 +8,5 @@ The dataset has very few black people image so it's a bit biased
 Due to RAM constraints i had to limit the training process to only 110 images per age.
 
 I trained the model using a Kaggle notebook - https://www.kaggle.com/code/rashidrk/age-and-gender-detection
+
+The code uses haar cascades model to extract the faces in the image
